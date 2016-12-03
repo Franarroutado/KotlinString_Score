@@ -10,5 +10,14 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+.directory
+
+# Prevent vim swap files
+*.swp
+
+gradle/
+
+gradlew*
+
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties

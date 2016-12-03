@@ -1,6 +1,6 @@
 # What is it
 
-- This is Kotlin port of Joshaven Potter's string_score.
+- This is Kotlin port of Joshaven Potter's string_score. String Scoring Algorithm __0.1.22__
 - Add an extension in Kotlin String class
 
 ## Installation Notes

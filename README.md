@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/98422697-4138-423f-8c70-cfb06223ab61)](https://codebeat.co/projects/github-com-franarroutado-kotlinstring_score-master)
+
 # What is it
 
 - This is Kotlin port of Joshaven Potter's string_score. String Scoring Algorithm __0.1.22__
